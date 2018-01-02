@@ -1,0 +1,39 @@
+{
+  "results": [{
+    "title": "The Histories",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.open.edu%2Fopenlearn%2Fsites%2Fwww.open.edu.openlearn%2Ffiles%2Fole_images%2Fherodotus-metmuseum-oasc-crop.jpg&f=1",
+    "published": "2017-09-14T18:17:00Z",
+    "author": "Conrad Knapp",
+    "id": "1"
+  }, {
+    "title": "The Iliad",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F1c%2FHomer_British_Museum.jpg&f=1",
+    "published": "2017-09-09T22:11:56Z",
+    "author": "Conrad Knapp",
+    "id": "2"
+  }, {
+    "title": "The Republic",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fweb.nmsu.edu%2F~everettt%2Fphilosophy%2Fimages%2Fplato.jpg&f=1",
+    "published": "2017-09-05T00:55:44Z",
+    "author": "Conrad Knapp",
+    "id": "3"
+  }, {
+    "title": "The History of the Peloponnesian War",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Facademic.mu.edu%2Fmeissnerd%2Fthucydides7.JPG&f=1",
+    "published": "2017-07-28T18:31:01Z",
+    "author": "Conrad Knapp",
+    "id": "4"
+  }, {
+    "title": "Nicomachean Ethics",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fapi.ning.com%2Ffiles%2F-TI4uM2ffQgbqYPcU8SjtAzfbvI1UyFPwfGjx0Ec5IyQNsV2NJkcCLawjTEZIFtD3sHTaO-bhA1ir58v1lHH9*UirrRAxT5o%2FAristotleSmaller.png&f=1",
+    "published": "2017-06-12T10:01:51Z",
+    "author": "Conrad Knapp",
+    "id": "5"
+  }, {
+    "title": "Parallel Lives",
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fjrbenjamin.files.wordpress.com%2F2014%2F01%2Froman-bust-4.jpg&f=1",
+    "published": "2017-06-02T03:22:11Z",
+    "author": "Conrad Knapp",
+    "id": "6"
+  }]
+}
