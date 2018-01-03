@@ -2,7 +2,7 @@
   <div class="container">
     <form @submit.prevent="onCreatePost" id="new-post-form">
       <input type="text" placeholder="Post Title" v-model="title">
-      <textarea placeholder="Content" v-model="content"></textarea>
+      <textarea name="body" placeholder="Content" v-model="content"></textarea>
       <input type="text" placeholder="Main Image" v-model="image">
       <img :src="image" alt="">
       <input type="text" placeholder="Description" v-model="meta.description">
@@ -28,12 +28,15 @@ export default {
   },
   methods: {
     onCreatePost() {
+      let content = window.editor.getData();
       const postData = {
         title: this.title,
-        content: this.content,
+        content: content,
         image: this.image,
         meta: this.meta
       }
+      // let content = document.querySelectorAll('.cke_wysiwyg_frame.cke_reset')
+      console.log(content, postData)
       this.$store.dispatch('createPost', postData)
       this.$router.push('/')
     }
